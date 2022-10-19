@@ -21,11 +21,13 @@
 
 body{
     margin: 0 auto;
-    background: grey;
+    background: #0e0e0e;
     width: 500px; 
-    padding-top: 50px;
-    border-width:0px 50px 50px 50px;
-    border: solid black;
+
+    border-top: 60px solid black;
+    border-right: 140px solid black;
+    border-bottom: 60px solid black;
+    border-left: 140px solid black;
   }
 .icons {
     display: flex;
@@ -50,5 +52,6 @@ body{
 }
 
 .imagen {
+   background: white;
     
 }
