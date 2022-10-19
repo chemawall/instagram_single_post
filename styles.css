@@ -1,0 +1,54 @@
+/* {
+    border: 1px dashed red;
+    min-height: 10px;
+}*/
+.header {
+    display: flex;
+    align-items: center;
+    background: white;
+}
+
+.fa-html5 {
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right:10px;
+
+}
+.fa-ellipsis-v{
+    padding-left: 360px;
+    font-size: 30px;
+}
+
+body{
+    margin: 0 auto;
+    background: grey;
+    width: 500px; 
+    padding-top: 50px;
+    border-width:0px 50px 50px 50px;
+    border: solid black;
+  }
+.icons {
+    display: flex;
+    font-size: 30px;
+    background: white;
+}
+
+.icons-right{
+    float: right;
+    padding-left: 340px;
+}
+.icons{
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+.text{
+    padding-left: 10px;
+    background: white;
+    padding-top: 10px;   
+    padding-bottom: 10px; 
+}
+
+.imagen {
+    
+}
